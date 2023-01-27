@@ -2,7 +2,8 @@
 import os
 
 import telebot
-os.environ["Token"] = "5834855129:AAGw5KJnmdpkGghD9qpp5LXmD_aL7BVhrS4"
+import 
+os.environ["Token"] = ""
 
 BOT_TOKEN = os.getenv("Token")
 

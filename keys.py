@@ -1,3 +1,0 @@
-token = '5859388058:AAEqSF0U-a_fzq321ZLvYEbC4iCZ-g8eKLI'
-glocal = '1877036958:TEST:c7dca3d00e36ca12c53e51a6bc4d4c6dbd804e73'
-unlimit = '5322214758:TEST:3908c4d9-eccc-40e3-8204-1ec414bdcf98'
